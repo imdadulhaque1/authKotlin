@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">authKotlin</string>
+    <string name="navigateToAuth">Navigate to Auth Screen</string>
+    <string name="backToAuth">Back Auth Screen</string>
+    <string name="haveNotAccount">Sign Up</string>
+    <string name="haveAccount">Sign In</string>
+    <string name="authMsg">You are welcome to be an authenticated member in our Cafe Society !</string>
+</resources>
