@@ -22,19 +22,18 @@
         />
 
     <Button
-        android:id="@+id/navigateSecondScreen"
+        android:id="@+id/navigateToSignUp"
         android:layout_width="300dp"
         android:layout_height="wrap_content"
         android:text="@string/haveNotAccount"
         android:textSize="16sp"
         android:background="@drawable/rounded_corner"
         android:textColor="@color/white"
-
         android:layout_marginVertical="10dp"
         />
 
     <Button
-        android:id="@+id/navigateCafeHouseScreen"
+        android:id="@+id/navigateToSignIn"
         android:layout_width="300dp"
         android:layout_height="wrap_content"
         android:text="@string/haveAccount"
